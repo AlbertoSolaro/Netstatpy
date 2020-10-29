@@ -1,0 +1,4 @@
+numpy
+netaddr
+scapy
+pandas
